@@ -4,9 +4,10 @@ This repo contains my personal knowledge base, a place where I can extract, expr
 ## Structure and Organization
 
  - each note is self contained in a single markdown file (mapped to a page after compilation)
+ - notes should contain a single subject
  - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyODk3NDY3OV19
+eyJoaXN0b3J5IjpbLTEwOTU4ODI1NTcsMTcyODk3NDY3OV19
 -->
