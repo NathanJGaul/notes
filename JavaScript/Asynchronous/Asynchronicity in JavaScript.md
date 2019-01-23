@@ -1,7 +1,7 @@
+# Asynchronicity in JavaScript
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+# Synchronous by Default
+The browser runs Java
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbNzU4MTE5ODgzXX0=
 -->
