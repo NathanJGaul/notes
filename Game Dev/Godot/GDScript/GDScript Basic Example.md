@@ -46,7 +46,13 @@
       while param2 != 0:
         param2 -= 1
 
+      var local_var2 = param1 + 3
+      return local_var2
+
+    # Functions overrid functions with the same name on the base/parent class.
+    # If you still want to call them, use '.' (k
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDIxOTE4Nl19
+eyJoaXN0b3J5IjpbLTk2OTUzNjk5MF19
 -->
