@@ -26,9 +26,16 @@
     # Built-in Vector Types
 
     var v2 = Vector2(1, 2)
-    var v3 = Vector3(1m,
+    var v3 = Vector3(1, 2, 3)
+
+    # Function
+
+    func some_function(param1, param2):
+      var local_var = 5
+
+      if param1 > local_var:
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUxMjY5MjI0XX0=
+eyJoaXN0b3J5IjpbNDEyMTM0OTIzXX0=
 -->
