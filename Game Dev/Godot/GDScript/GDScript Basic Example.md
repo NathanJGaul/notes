@@ -34,8 +34,19 @@
       var local_var = 5
 
       if param1 > local_var:
+        print(param1)
+      elif param2 > 5:
+        print(param2)
+	  else:
+	    print("Fail!")
+
+      for i in range(20):
+        print(i)
+
+      while param2 != 0:
+        param2
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyMTM0OTIzXX0=
+eyJoaXN0b3J5IjpbLTExNDc1OTczODNdfQ==
 -->
