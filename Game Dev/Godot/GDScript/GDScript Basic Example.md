@@ -44,9 +44,9 @@
         print(i)
 
       while param2 != 0:
-        param2
+        param2 -= 1
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDc1OTczODNdfQ==
+eyJoaXN0b3J5IjpbLTk4NDIxOTE4Nl19
 -->
