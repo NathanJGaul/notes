@@ -62,9 +62,12 @@
 
     # Constructor
 
-    enter code here
+    func _init():
+      print("Constructing")
+      var lv = Something.new()
+      print(lv.a)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzc3MzUxNV19
+eyJoaXN0b3J5IjpbLTc2NjY4ODIwOV19
 -->
