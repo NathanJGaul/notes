@@ -50,9 +50,21 @@
       return local_var2
 
     # Functions overrid functions with the same name on the base/parent class.
-    # If you still want to call them, use '.' (k
+    # If you still want to call them, use '.' (like 'super' in other languages).
+
+    func something(p1, p2):
+      .something(p1, p2)
+
+    # Inner Class
+
+    class Something:
+      var a = 10
+
+    # Constructor
+
+    enter code here
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTUzNjk5MF19
+eyJoaXN0b3J5IjpbLTMyMzc3MzUxNV19
 -->
