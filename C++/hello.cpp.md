@@ -28,10 +28,14 @@ int main()
 - `<<`, in this context, is the overloading of the left shift operator
 	- it is equivalent to `put(std::cout, "Hello, World!\n");`
 
+### `}`
+- the closing bracket of the main function
+- indicates the end of the code block that is the function
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMDMyMTEwMSwtMTMzOTA2Mzg1OF19
+eyJoaXN0b3J5IjpbLTY1NzA1MjYxNiwtMTMzOTA2Mzg1OF19
 -->
