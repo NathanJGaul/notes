@@ -1,6 +1,6 @@
 # hello.cpp
 
-```
+```cpp
 #include <iostream>
 
 int main()
@@ -37,6 +37,6 @@ int main()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNTc5MDEzLC02NTcwNTI2MTYsLTEzMz
-kwNjM4NThdfQ==
+eyJoaXN0b3J5IjpbMTk2Nzk4NjkwLDQ3MDU3OTAxMywtNjU3MD
+UyNjE2LC0xMzM5MDYzODU4XX0=
 -->
