@@ -10,17 +10,22 @@ int main()
 
 ## Line by Line
 `#include <iostream>`
-importing/including libraries
+- importing/including libraries
 
 `int main()`
-the main function that all C++ programs need, returns an integer
+- the main function that all C++ programs need, returns an integer
 
 `{`
-the opening brak
+- the opening bracket of the main function
+
+`std::cout << "Hello World!\n";`
+- the meat of the program
+- 
+
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA4MjE2ODVdfQ==
+eyJoaXN0b3J5IjpbLTkzODIwNTU3XX0=
 -->
