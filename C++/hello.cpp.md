@@ -22,9 +22,9 @@ int main()
 - indicates the begining of the code block that is the function
 
 ### `std::cout << "Hello World!\n";`
-
 - the meat of the program
 - `std::cout` is the "**c**haracter **out**put stream" in the `std` namespace
+	- 
 - `<<`, in this context, is the overloading of the left shift operator
 	- it is equivalent to `put(std::cout, "Hello, World!\n");`
 
@@ -37,5 +37,6 @@ int main()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzA1MjYxNiwtMTMzOTA2Mzg1OF19
+eyJoaXN0b3J5IjpbOTIwMDA0NjUzLC02NTcwNTI2MTYsLTEzMz
+kwNjM4NThdfQ==
 -->
