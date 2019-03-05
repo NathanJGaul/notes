@@ -1,4 +1,5 @@
 # hello.cpp
+
 ```
 #include <iostream>
 
@@ -9,17 +10,21 @@ int main()
 ```
 
 ## Line by Line
-`#include <iostream>`
+
+### `#include <iostream>`
 - importing/including libraries
 
-`int main()`
+### `int main()`
 - the main function that all C++ programs need, returns an integer
 
-`{`
+### `{`
 - the opening bracket of the main function
+- indicates the begining of the code block that is the function
 
-`std::cout << "Hello World!\n";`
+### `std::cout << "Hello World!\n";`
+
 - the meat of the program
+- `std::cout` is the "**c**haracter **out**put stream" in the `std` namespace
 - 
 
 
@@ -27,5 +32,5 @@ int main()
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzODIwNTU3XX0=
+eyJoaXN0b3J5IjpbLTEzMzkwNjM4NThdfQ==
 -->
