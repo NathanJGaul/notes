@@ -25,12 +25,12 @@ int main()
 
 - the meat of the program
 - `std::cout` is the "**c**haracter **out**put stream" in the `std` namespace
-- 
+- `<<`, in this context, is the overloading of the left shift operator
 
 
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzkwNjM4NThdfQ==
+eyJoaXN0b3J5IjpbNjc2NzI2MzU4LC0xMzM5MDYzODU4XX0=
 -->
