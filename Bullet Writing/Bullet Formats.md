@@ -18,6 +18,10 @@
 - gives scope and serves as the connective tissue between the action and the result
 - the connection strength will be explained through the TOS concept
 
+### Examples
+
+- Changed aircraft tire in 1 hour; repair returned aircraft fully mission capable
+
 ## Three Part Bullet
 
 - Action-Impact-Result
@@ -39,8 +43,12 @@
 - qualifies the outcome of the individual's efforts
 - establishes the contribution's value
 
+### Examples
+
+- Changed aircraf
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUyMzM1ODQ3LDMyODYxMzk3LDEyOTg4OT
-I1ODUsNjEwMzgzMjI4XX0=
+eyJoaXN0b3J5IjpbLTQ0NzM0NzE4OCw5NTIzMzU4NDcsMzI4Nj
+EzOTcsMTI5ODg5MjU4NSw2MTAzODMyMjhdfQ==
 -->
