@@ -16,10 +16,19 @@
 
 - characterizes the result of the behavior
 - gives scope and serves as the connective tissue between the action and the result
-- the connection strength 
+- the connection strength will be explained through the TOS concept
+
+## Three Part Bullet
+
+- Action-Impact-Result
+
+### Action Element
+
+- clearly describe the individual's specific contribution
+- defin the "level" of per
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODcxNDA5NiwxMjk4ODkyNTg1LDYxMD
-M4MzIyOF19
+eyJoaXN0b3J5IjpbNzcyMjI0ODgxLDEyOTg4OTI1ODUsNjEwMz
+gzMjI4XX0=
 -->
