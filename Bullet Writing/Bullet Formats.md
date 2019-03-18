@@ -30,10 +30,16 @@
 
 ### Impact Element
 
-- explains how the individual's performance influsenced the next level and provides scope or influenc
+- explains how the individual's performance influsenced the next level and provides scope or influence
+- serves to connect the action and the result
+	- the stronger the connection the stronger the bullet
+
+### Result Element
+
+- 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTUyNjc2NiwxMjk4ODkyNTg1LDYxMD
-M4MzIyOF19
+eyJoaXN0b3J5IjpbMzI4NjEzOTcsMTI5ODg5MjU4NSw2MTAzOD
+MyMjhdfQ==
 -->
