@@ -12,10 +12,10 @@
 
 ## Strategic Level
 
-- at this level, an Airmans's required competencies transition from the integration of peaopl with missions to leading and directing ex
+- at this level, an Airmans's required competencies transition from the integration of peaopl with missions to leading and directing exceptionally complex multi-tiered organizations
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NTE3MDYxNF19
+eyJoaXN0b3J5IjpbLTM0MDQ0NTIzN119
 -->
