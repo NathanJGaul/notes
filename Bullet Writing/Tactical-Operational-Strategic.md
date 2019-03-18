@@ -8,10 +8,14 @@
 
 ## Operational Level
 
-- at this level, the tactical skills and e
+- at this level, the tactical skills and expertise Airmen developed earlier are employed alongside new leadership oppertunities to affect an entire theater or joint operations area
+
+## Strategic Level
+
+- at this level, an Airmans's required competencies transition from the integration of peaopl with missions to leading and directing ex
 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc1NzgyMTFdfQ==
+eyJoaXN0b3J5IjpbMTk2NTE3MDYxNF19
 -->
