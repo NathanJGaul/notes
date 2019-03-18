@@ -36,10 +36,10 @@
 
 ### Result Element
 
-- 
+- qual
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4NjEzOTcsMTI5ODg5MjU4NSw2MTAzOD
-MyMjhdfQ==
+eyJoaXN0b3J5IjpbMTM5NTEwMjYzMCwzMjg2MTM5NywxMjk4OD
+kyNTg1LDYxMDM4MzIyOF19
 -->
