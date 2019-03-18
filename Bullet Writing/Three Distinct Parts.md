@@ -15,8 +15,12 @@ What...How...Result/Impact
 	 - what level of impact
 		 - personnel, unit, base, etc.
 	 - number are critical
-		 - money/time/man-0
+		 - money/time/man-hour savings
+		 - high percentages acheived
+		 - accolades
+		 - low failure/loss rates
+
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMTMyMTYzOF19
+eyJoaXN0b3J5IjpbLTE4MTgwNDQ3NjJdfQ==
 -->
