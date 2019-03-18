@@ -8,7 +8,7 @@
 
 e.g.
 
- - Replaced tire in half job standard
+ - **Replaced tire in half job standard**
 
 ## Operational Level
 
@@ -16,14 +16,17 @@ e.g.
 
 e.g.
 
-- Replaced tire in half job standard; aircraft launched on time
+- Replaced tire in half job standard; **aircraft launched on time**
 
 ## Strategic Level
 
 - at this level, an Airmans's required competencies transition from the integration of peaopl with missions to leading and directing exceptionally complex multi-tiered organizations
 
+e.g.
+
+- Replaced tire in half job standard; aircraft launched on time--**bombs struck target**
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUyMjYzMTA2LC0zNDA0NDUyMzddfQ==
+eyJoaXN0b3J5IjpbLTE0MzEyNjMzMzAsLTM0MDQ0NTIzN119
 -->
