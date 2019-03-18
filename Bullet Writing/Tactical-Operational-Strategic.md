@@ -6,6 +6,7 @@
 
 - tactical expertise in the Air Force encompasses cheifly the unit and sub-unit levels where individuals perform specific tasks that, in the aggregate, contribute to the execution of the operations at the operational level
 
+
 ## Operational Level
 
 - at this level, the tactical skills and expertise Airmen developed earlier are employed alongside new leadership oppertunities to affect an entire theater or joint operations area
@@ -17,5 +18,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDQ0NTIzN119
+eyJoaXN0b3J5IjpbLTE3OTAzNTA5NDcsLTM0MDQ0NTIzN119
 -->
