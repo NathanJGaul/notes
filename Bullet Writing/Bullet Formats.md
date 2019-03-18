@@ -45,10 +45,10 @@
 
 ### Examples
 
-- Changed aircraf
+- Changed aircraft tire; repaired in 1 hour--aircraft fully mission capable
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzM0NzE4OCw5NTIzMzU4NDcsMzI4Nj
+eyJoaXN0b3J5IjpbMTgxMzY0MDg2NSw5NTIzMzU4NDcsMzI4Nj
 EzOTcsMTI5ODg5MjU4NSw2MTAzODMyMjhdfQ==
 -->
