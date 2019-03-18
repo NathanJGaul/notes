@@ -25,10 +25,15 @@
 ### Action Element
 
 - clearly describe the individual's specific contribution
-- defin the "level" of per
+- defin the "level" of performance
+	- did the member perform a task, or was the action performed at a higher level
+
+### Impact Element
+
+- explains how the individual's performance influsenced the next level and provides scope or influenc
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyMjI0ODgxLDEyOTg4OTI1ODUsNjEwMz
-gzMjI4XX0=
+eyJoaXN0b3J5IjpbMTMyMTUyNjc2NiwxMjk4ODkyNTg1LDYxMD
+M4MzIyOF19
 -->
