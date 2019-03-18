@@ -36,10 +36,11 @@
 
 ### Result Element
 
-- qual
+- qualifies the outcome of the individual's efforts
+- establishes the contribution's value
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTEwMjYzMCwzMjg2MTM5NywxMjk4OD
-kyNTg1LDYxMDM4MzIyOF19
+eyJoaXN0b3J5IjpbOTUyMzM1ODQ3LDMyODYxMzk3LDEyOTg4OT
+I1ODUsNjEwMzgzMjI4XX0=
 -->
