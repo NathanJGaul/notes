@@ -49,11 +49,17 @@
 
 ## Reverse Format
 
+### Example in 3 Part Format
 
+- Rewrote technical data; corrected assembly errors--avoided minor wear
+
+### Example in Reverse Format
+
+- Avoided $20M damage! Rewrote technical data; correcteed
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjgzNjY4LDE4MTM2NDA4NjUsOTUyMz
+eyJoaXN0b3J5IjpbNzcyOTgzMjYxLDE4MTM2NDA4NjUsOTUyMz
 M1ODQ3LDMyODYxMzk3LDEyOTg4OTI1ODUsNjEwMzgzMjI4XX0=
 
 -->
