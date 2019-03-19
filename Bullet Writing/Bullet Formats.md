@@ -55,11 +55,16 @@
 
 ### Example in Reverse Format
 
-- Avoided $20M damage! Rewrote technical data; correcteed
+- Avoided $20M damage! Rewrote technical data; correcteed safety errors
+
+- result moved to the begining because it was the most significant part of the bullet
+- do not bury information, engineer bullets to help reader clearly see the important parts
+
+##
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyOTgzMjYxLDE4MTM2NDA4NjUsOTUyMz
-M1ODQ3LDMyODYxMzk3LDEyOTg4OTI1ODUsNjEwMzgzMjI4XX0=
+eyJoaXN0b3J5IjpbLTU4NjAyMzg0OCwxODEzNjQwODY1LDk1Mj
+MzNTg0NywzMjg2MTM5NywxMjk4ODkyNTg1LDYxMDM4MzIyOF19
 
 -->
