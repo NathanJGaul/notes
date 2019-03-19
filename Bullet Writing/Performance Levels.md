@@ -22,10 +22,11 @@ tactical-level activities on a small scale
 
 tactical or operational in nature
 - job performance includes oversight or supervision of a small group, small team, or small program and taking charge of tactical activities
-- self-improvement describes 
+- self-improvement describes short in-residence or correspondence courses or certification and completion of career development courses, and completion of the Community College of the Air Force degree
+- base and community involvement includes oversight or supervision of small groups or teams and organizing/
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTk3NDkzOTEsMTAwNjcyMzczMywxOT
-ExMzgyOTYwXX0=
+eyJoaXN0b3J5IjpbLTYwMTA1NDUwLDEwMDY3MjM3MzMsMTkxMT
+M4Mjk2MF19
 -->
