@@ -39,9 +39,7 @@
 - qualifies the outcome of the individual's efforts
 - establishes the contribution's value
 
-## Examples
-
-### Example 1
+## Example Set 1
 
 - 2 Part: Changed aircraft tire in 1 hour; repair returned aircraft fully mission capable
 - 3 Part: Changed aircraft tire; repaired in 1 hour--aircraft fully mission capable
@@ -60,11 +58,14 @@
 - result moved to the begining because it was the most significant part of the bullet
 - do not bury information, engineer bullets to help reader clearly see the important parts
 
-##
+## Example Set 2
+
+- 2 Part: Rewrote technical data to correct assembly errors; avoided $1.6K wear
+- Reverse 3 Part: Prevented fleet grounding! Rewrote technical da
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NjAyMzg0OCwxODEzNjQwODY1LDk1Mj
+eyJoaXN0b3J5IjpbMTcwODg5OTUwOSwxODEzNjQwODY1LDk1Mj
 MzNTg0NywzMjg2MTM5NywxMjk4ODkyNTg1LDYxMDM4MzIyOF19
 
 -->
