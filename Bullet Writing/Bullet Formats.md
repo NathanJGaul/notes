@@ -53,19 +53,21 @@
 
 ### Example in Reverse Format
 
-- Avoided $20M damage! Rewrote technical data; correcteed safety errors
+Avoided $20M damage! Rewrote technical data; correcteed safety errors
 
 - result moved to the begining because it was the most significant part of the bullet
 - do not bury information, engineer bullets to help reader clearly see the important parts
 
 ## Example Set 2
 
-- 2 Part: Rewrote technical data to correct assembly errors; avoided $1.6K wear
-- Reverse 3 Part: Prevented fleet grounding! Rewrote technical da
+2 Part: Rewrote technical data to correct assembly errors; avoided $1.6K wear
+Reverse 3 Part: Prevented fleet grounding! Rewrote technical data; avoided $1.6K wear
+
+- In this example the action and result are not strong but the fleet wide impact is
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODg5OTUwOSwxODEzNjQwODY1LDk1Mj
-MzNTg0NywzMjg2MTM5NywxMjk4ODkyNTg1LDYxMDM4MzIyOF19
+eyJoaXN0b3J5IjpbMjM4NTk2OTksMTgxMzY0MDg2NSw5NTIzMz
+U4NDcsMzI4NjEzOTcsMTI5ODg5MjU4NSw2MTAzODMyMjhdfQ==
 
 -->
