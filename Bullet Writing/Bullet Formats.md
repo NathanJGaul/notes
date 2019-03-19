@@ -45,11 +45,15 @@
 
 - 2 Part: Changed aircraft tire in 1 hour; repair returned aircraft fully mission capable
 - 3 Part: Changed aircraft tire; repaired in 1 hour--aircraft fully mission capable
-- Changed aircraft tire in 1 hour returning the aircraft to fully mission capable
+- Sentence: Changed aircraft tire in 1 hour returning the aircraft to fully mission capable
+
+## Reverse Format
+
+
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjkwNDQ5NjIsMTgxMzY0MDg2NSw5NT
-IzMzU4NDcsMzI4NjEzOTcsMTI5ODg5MjU4NSw2MTAzODMyMjhd
-fQ==
+eyJoaXN0b3J5IjpbLTk0MjgzNjY4LDE4MTM2NDA4NjUsOTUyMz
+M1ODQ3LDMyODYxMzk3LDEyOTg4OTI1ODUsNjEwMzgzMjI4XX0=
+
 -->
