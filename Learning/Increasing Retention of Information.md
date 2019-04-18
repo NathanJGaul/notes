@@ -21,9 +21,9 @@ Make sure to be taking notes, asking questions and processing the knowledge thro
  3. Perform research to find answers to the questions brought up in the previous step
 	 - keep track of the resources used to answer these questions
  4. Re-read the material
- 5. For critical information use [spaced repatition](Spaced Repetition) for increased retention
+ 5. For critical information use [spaced repatition](Spaced Repetition.md) for increased retention
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDU2NDA2NSwxNTg4NzU4NjAxXX0=
+eyJoaXN0b3J5IjpbMTcyMTgyODI5NiwxNTg4NzU4NjAxXX0=
 -->
