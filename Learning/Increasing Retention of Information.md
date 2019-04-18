@@ -3,7 +3,7 @@
 ## Steps to increase retention for a class
 
  1. Pre-read material before lecture
-	 - fdsasdf
+	 - take notes and form questions for asking during lecture
  3. Re-process material during lecture
  4. Re-read material after lecture
  5. Expose yourself to other resources/source material on the subject
@@ -25,5 +25,6 @@ Make sure to be taking notes, asking questions and processing the knowledge thro
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0ODY0NDkxNiwxNTg4NzU4NjAxXX0=
+eyJoaXN0b3J5IjpbMzYxNzUxMTI0LC0zNDg2NDQ5MTYsMTU4OD
+c1ODYwMV19
 -->
