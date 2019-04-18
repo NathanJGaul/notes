@@ -15,10 +15,13 @@ Make sure to be taking notes, asking questions and processing the knowledge thro
 ## Steps to increase retention for personal studies
 
  1. Skim the reading material
- making note of the titles and sub-titles
- 3. Read the material and take detailed notes
+	 - make note of the titles and sub-titles
+ 2. Read the material and take detailed notes
+	  - make note of any questions that come to mind
+ 3. Perform research to find answers to the questions brought up in the previous step
+	 
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MjQ0NjMzNl19
+eyJoaXN0b3J5IjpbLTE5NzU3NTk3MDBdfQ==
 -->
