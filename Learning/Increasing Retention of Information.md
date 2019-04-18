@@ -4,11 +4,11 @@
 
  1. Pre-read material before lecture
 	 - fdsasdf
- 2. Re-process material during lecture
- 3. Re-read material after lecture
- 4. Expose yourself to other resources/source material on the subject
- 5. Complete assignments
- 6. Discuss the topic/subject/material with others
+ 3. Re-process material during lecture
+ 4. Re-read material after lecture
+ 5. Expose yourself to other resources/source material on the subject
+ 6. Complete assignments
+ 7. Discuss the topic/subject/material with others
 
 Make sure to be taking notes, asking questions and processing the knowledge throughout this process
 
@@ -17,11 +17,11 @@ Make sure to be taking notes, asking questions and processing the knowledge thro
  1. Skim the reading material
 	 - make note of the titles and sub-titles
  2. Read the material and take detailed notes
-	  - make note of any questions that come to mind
+	 - make note of any questions that come to mind
  3. Perform research to find answers to the questions brought up in the previous step
-	 
+	 - keep track of the resources used to answer these questions
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzU3NTk3MDBdfQ==
+eyJoaXN0b3J5IjpbMTU4ODc1ODYwMV19
 -->
