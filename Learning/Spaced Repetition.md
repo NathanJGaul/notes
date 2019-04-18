@@ -8,8 +8,9 @@
 ## Resources
 
  - [Wikipedia - Spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition)
+ - [Spaced Repetition Promotes Efficient and Effective Learning: Policy Implications for Instruction](https://www.dartmouth.edu/~cogedlab/pubs/Kang(2016,PIBBS).pdf)
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA4MDA0N119
+eyJoaXN0b3J5IjpbNjk5MTY5OTYsLTIwNzA4MDA0N119
 -->
