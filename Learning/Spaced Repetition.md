@@ -2,9 +2,9 @@
 
 ## Resources
 
- 1. List item
+ - Lis
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NjY1MjMxM119
+eyJoaXN0b3J5IjpbLTE4MzM0NTg0MjBdfQ==
 -->
