@@ -7,9 +7,11 @@ TCP handles all handshaking and transmission details at the transport layer, pro
 Network problems detected and corrected by TCP:
 
  - network congestion
- - traff
+ - traffic load balancing
+ - unpredictable network behaviour
+ - packet loss, duplication, delivery order
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU2Mzk0OTFdfQ==
+eyJoaXN0b3J5IjpbMTYxMjU3NDAwMF19
 -->
