@@ -1,6 +1,9 @@
 
 # New Rails Project
 
+## Step by Step Installation
+[gorails.com]([https://gorails.com/setup/ubuntu/16.04](https://gorails.com/setup/ubuntu/16.04))
+
 ## Create Project
 - SQLite: `rails new myapp`
 - PostgresQL: `rails new myapp -d postgresql`
@@ -14,5 +17,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNzY0MDMwXX0=
+eyJoaXN0b3J5IjpbLTE4MzMxMjM5MTksNDkwNzY0MDMwXX0=
 -->
