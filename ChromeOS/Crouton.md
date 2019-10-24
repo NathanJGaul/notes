@@ -13,9 +13,9 @@
 `sudo edit-chroot -b dev-env`
 
 ## Restore chroot
-`sudo 
+`sudo edit-chroot -rr dev-env`
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5Njg3ODMxOSwxNDEyNzAyMDgyXX0=
+eyJoaXN0b3J5IjpbLTE1Nzg0OTQ4MjEsMTQxMjcwMjA4Ml19
 -->
