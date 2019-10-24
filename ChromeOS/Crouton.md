@@ -1,5 +1,7 @@
 # Crouton
 
+[Cheat Sheet]([https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet](https://github.com/dnschneid/crouton/wiki/Crouton-Command-Cheat-Sheet))
+
 ## Starting Crouton
 `sudo startgnome`
 
@@ -17,5 +19,5 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0OTQ4MjEsMTQxMjcwMjA4Ml19
+eyJoaXN0b3J5IjpbLTgzMTM5NDQwMSwxNDEyNzAyMDgyXX0=
 -->
